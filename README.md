@@ -1,0 +1,2 @@
+# ServiceTest
+android中Service使用范例，包含Service和Activity如何进行数据交互：通过广播，通过共享文件，通过自定义接口，通过AIDL，通过Messenger
